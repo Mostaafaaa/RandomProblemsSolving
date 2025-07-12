@@ -1,0 +1,14 @@
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\ExtractPhoneNameAndPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\ExtractPhoneNameAndPrice.AssemblyInfoInputs.cache
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\ExtractPhoneNameAndPrice.AssemblyInfo.cs
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\ExtractPhoneNameAndPrice.csproj.CoreCompileInputs.cache
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\bin\Debug\net8.0\ExtractPhoneNameAndPrice.exe
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\bin\Debug\net8.0\ExtractPhoneNameAndPrice.deps.json
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\bin\Debug\net8.0\ExtractPhoneNameAndPrice.runtimeconfig.json
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\bin\Debug\net8.0\ExtractPhoneNameAndPrice.dll
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\bin\Debug\net8.0\ExtractPhoneNameAndPrice.pdb
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\ExtractPhoneNameAndPrice.dll
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\refint\ExtractPhoneNameAndPrice.dll
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\ExtractPhoneNameAndPrice.pdb
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\ExtractPhoneNameAndPrice.genruntimeconfig.cache
+D:\CSharp\Halal almshakl\regex-exercises-byte-busters\mostafa-omar-regex-exercises\ExtractPhoneNameAndPrice\obj\Debug\net8.0\ref\ExtractPhoneNameAndPrice.dll
